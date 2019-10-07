@@ -1,0 +1,9 @@
+.row{
+    margin-top: 2.5vh;
+    min-height: 75vh !important;
+    height: 85vh !important;
+}
+
+#instagramFeed{
+    overflow-y: scroll;
+}
