@@ -8,7 +8,7 @@ $( document ).ready(function($) {
    	$.ajax({
         url: twitterURL,
         dataType: "json",
-        headers: {
+        headers: {//????
 			'authorization': 'OAuth oauth_consumer_key=mo5Y8EpIHrHU1rmrTAyfFM74d',
 			'oauth_nonce':"generated-nonce",
 			'oauth_signature':"generated-signature", 
